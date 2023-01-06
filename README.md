@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taufiqnet
 - 👀 I’m interested in Software Engineering Work
-- 🌱 I’m currently learning Python, Django Framework, React JS.
+- 🌱 I’m currently working with Python, Django Framework, React JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
